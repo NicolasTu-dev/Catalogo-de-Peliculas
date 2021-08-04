@@ -45,6 +45,7 @@ public class CatalogoPeliculasPresentacion {
                     System.out.println("Ingrese el nombre del archivo: ");
                     var archivo = scanner.nextLine();
                     datos.borrar(archivo);
+                    break;
                 case 0:
                     System.out.println("Adios!");
                     break;
