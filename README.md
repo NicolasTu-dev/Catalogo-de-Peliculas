@@ -1,4 +1,4 @@
-# Trabajo Curso Java
+# Catalogo de Peliculas
 Trabajo final curso de Universidad Java 2021 terminado.
 
 Es un menu para un catalogo de peliculas, ejemplos del mismo sobre la consola de java:
